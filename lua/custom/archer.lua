@@ -1,3 +1,5 @@
+-- NOTE From Jess Archer
+-- https://github.com/jessarcher/dotfiles
 -- You can add your own plugins here or in other files in this directory!
 --  I promise not to create any merge conflicts in this directory :)
 --
@@ -44,5 +46,3 @@ vim.opt.exrc = true
 vim.opt.secure = true
 vim.opt.titlestring = '%f // nvim'
 vim.opt.inccommand = 'split'
-
-return {}
